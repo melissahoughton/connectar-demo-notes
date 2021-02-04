@@ -39,15 +39,11 @@ https://raw.githubusercontent.com/Azure-Samples/IoTDemos/master/ADT-SupplyChainD
 
 ## Show them the code for the IoT To TWIN
 
-In VS Ctrl+G 91
-
-Talk about Az DT Client
-
-Show all the api calls available
-
-Can automate everything using this SDK
-
-OR connnect via a CLI to update
+- In VS Ctrl+G 91
+- Talk about Az DT Client
+- Show all the api calls available
+- Can automate everything using this SDK
+- OR connnect via a CLI to update
 
 ## Open ADT Explorer
 
@@ -80,3 +76,8 @@ Usage Example:
 - In the property explorer, changes the StockLevel value to 100.
 - **Click** the **Save** icon in the navigation bar.
 - Observe the value has been patched with the replace operation.
+
+
+### Simulating Data coming in: 
+- Start the simulator by running `start` 
+- Click on the details for a factory to see the number of orders changing
