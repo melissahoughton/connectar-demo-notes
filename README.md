@@ -7,21 +7,20 @@ https://a2z6tlhwebapp.azurewebsites.net/
 
 The following steps will guide you through the standalone web application to explore capabilities.
 
-1. **Click** on the factory in South America and observe twin data.
-1. **Click** on the shipment in the Indian Ocean to observe twin data.
+1. **Click** on the **factory** in **South America** and observe twin data.
+1. **Click** on the **shipment** in the **Indian Ocean** to observe twin data.
 1. **Press** space bar to simulate Microsoft Teams message.
 1. **Click** the **Signature Tee** filter to see relevant supply lines.
-1. **Click** the store in California.
+1. **Click** the **store** in **California.**
 1. **Click** the bottom order number **442-12448**.
-1. **Click** the shipment in the Atlantic Ocean and observe historical twin data.
-1. **Click** the factory in Pakistan and observe historical twin data then **View Factory**.
+1. **Click** the **shipment** in the **Atlantic Ocean** and observe historical twin data.
+1. **Click** the **factory** in **Pakistan** and observe historical twin data then **View Factory**.
 1. **Click** on any sensor in the factory to observe live telemetry. _Note that the green factory line storeroom has high humidity._
 1. **Click** the bottom order number **442-12448** from **Latest Orders**.
 1. **Click** on the storeroom and then **Time Series Insights**.
 1. **Click** on **Change Y-Axis Type** to observe the historical high humidity of line 2.
 1. **Click** on **VIEW IMPACT** to show the impact assessment of shutting line 2 down.
-1. **Click** the store in California to analyze financial impact.
-1. **Click** the store in London to analyze financial impact.
+1. **Click** the **store** in **California** to analyze financial impact.
 1. **Click** the factory in Pakistan and then **STOP LINE**.
 1. Observe alternative supply lines fulfilling orders.
 
