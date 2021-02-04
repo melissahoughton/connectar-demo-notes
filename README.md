@@ -30,15 +30,17 @@ https://raw.githubusercontent.com/Azure-Samples/IoTDemos/master/ADT-SupplyChainD
 
 ## Code / Functions
 
-1. Function to receive updates from Iot devices via the event grid and then updates either the twin - we will take a look at that one in a second.
+1. Function to SingleR to broadcast the stream as telemetry
 
-2. Function to SingleR to broadcast the stream as telemetry
+1. Pushes data from the Event Hub to Time Series Inight
 
-3. Pushes data from the Event Hub to Time Series Inight
+1. Function to receive updates from Iot devices via the event grid and then updates either the twin - lets take a look
 
 ## Show them the code for the IoT To TWIN
 
 - In VS Ctrl+G 91
+- Propery = expected to have backing storage, can be read at any time
+- Telemetry = stream of events, set of data messages with short lifespan, cannot come back to read it later
 - Talk about Az DT Client
 - Show all the api calls available
 - Can automate everything using this SDK
